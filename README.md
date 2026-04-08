@@ -1,19 +1,24 @@
 # About Me
-I work on software projects, often exploratory and iterative.
 
+I build software and products, often exploratory and iterative.  
 Most of my work is closed-source.
 
-Main interests include systems programming (Rust), blockchains (SVM and EVM ecosystems), and robotics.
+Currently building **SIGA**, a fashion brand inspired by Mediterranean culture & aesthetics.
 
-Open to contract work and collaborations in Blockchain/Crypto space.
+Main interests:
+- Systems programming (Rust)
+- LLM
+- AI & Robotics
+- Blockchain (SVM / EVM)
+- Creative + technical product building
 
-
-
---- 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xPraedico&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently exploring the intersection of AI, design, and product development.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=0xPraedico&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##  Stats
+
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0xPraedico&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xPraedico&layout=compact&theme=github_dark)
+
+---
