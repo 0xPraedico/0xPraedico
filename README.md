@@ -18,7 +18,6 @@ Currently exploring the intersection of AI, design, and product development.
 
 ##  Stats
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0xPraedico&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xPraedico&layout=compact&theme=github_dark)
 
 ---
