@@ -3,7 +3,7 @@
 I build software and products, often exploratory and iterative.  
 Most of my work is closed-source.
 
-Currently building **SIGA**, a fashion brand inspired by Mediterranean culture & aesthetics.
+Software engineer at Thales R&T and building **SIGA**, a fashion brand inspired by Mediterranean culture & aesthetics.
 
 Main interests:
 - Systems programming (Rust)
@@ -12,7 +12,6 @@ Main interests:
 - Blockchain (SVM / EVM)
 - Creative + technical product building
 
-Currently exploring the intersection of AI, design, and product development.
 
 ---
 
