@@ -13,6 +13,8 @@ Main interests:
 - Robotics & Physical AI
 - Creative & artistic products
 
+reach out: rached.rayeh1@gmail.com
+
 ---
 
 ##  Stats
